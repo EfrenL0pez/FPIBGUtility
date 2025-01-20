@@ -27,6 +27,8 @@ The application needs a front-end to configure and launch the FPIBG simulation r
 from the generated data. I need to use Pyton because the research comunity in the particle simulation field uses it
 for these kinds of utilities. It also needs to be portatble across WINDOWS, LINUX, and MACOS.
 
+---
+
 ### **Front-End**
 
 	The front provides the following facilities:
@@ -43,6 +45,8 @@ for these kinds of utilities. It also needs to be portatble across WINDOWS, LINU
 	environment (something we won't do here).
 
 ![Front-End GUI](FrontEndGUI.png)
+
+---
 
 ### **Back-End**
 
