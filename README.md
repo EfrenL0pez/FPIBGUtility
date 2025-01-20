@@ -25,7 +25,7 @@ https://github.com/fieldparticle/FPIBG/blob/main/2024_10_22_FPIBG_For%20_Publish
 
 The application needs a front-end to configure and launch the FPIBG simulation run and a back-end to produce reports 
 from the generated data. I need to use Pyton because the research comunity in the particle simulation field uses it
-for these kinds of utilities. It also needs to be portatble across WINDOWS, LINUX, and MACOS.
+for these kinds of utilities. It also needs to be portatble across **Windows**, **Linux**, and **macOS**.
 
 ---
 
