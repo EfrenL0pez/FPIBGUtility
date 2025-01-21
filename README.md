@@ -4,9 +4,9 @@
 **Project Name**: FPIBGUtility  
 **Project Description**: Python-based utilities for configuring, controlling, and analyzing FPIBG particle flow simulations.  
 **Team Members**:  
-- Jackie Bell - Back-End Engineer  
-- Efren Lopez - Front-End Engineer  
-
+- Jackie Bell - jb2ndr@ufl.edu - Back-End Engineer  
+- Efren Lopez - efren.lopez@ufl.edu - Front-End Engineer
+- Kristen Moy - kristenmoy@ufl.edu - Front-End Engineer
 ---
 
 ## **Original Project Proposal** *(By Jackie Bell)*
